@@ -194,4 +194,10 @@ _Web3IoTSDK_ has been tested and used to build applications on a number of devel
 * [Raspberry Pi](https://github.com/machinefi/web3-iot-sdk/tree/main/examples)
 * [Pebble Tracker](https://github.com/machinefi/web3-iot-sdk/tree/main/examples)
 * [ESP32](https://github.com/machinefi/w3bstream-client-esp32/) 
-* Arduino (coming soon)   
+* Arduino (coming soon)
+
+<a href="https://scan.coverity.com/projects/tide00-web3-iot-sdk">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/28997/badge.svg"/>
+</a>
+
